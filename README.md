@@ -24,8 +24,6 @@ This build is reassigned for a more convenient and most importantly readable cod
 
 ### Output
 ---
-| Таблицы       | Это                | Круто |
-| ------------- |:------------------:| -----:|
-| столбец 3     | выровнен вправо    | $1600 |
-| столбец 2     | выровнен по центру |   $12 |
-| зебра-строки  | прикольные         |    $1 |
+|        |     HTML     |         Styles         |    Images     |     JavaScript     |
+| ------ |:------------:| ---------------------: | :----------: |:-------------------:|
+| Path   |     dist/    | dist/css/style.min.css |  dist/img/   | dist/js/main.min.js |
