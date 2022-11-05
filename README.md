@@ -40,4 +40,4 @@ This build is reassigned for a more convenient and most importantly readable cod
 
 ### NPM packages in use
 ---
-<a href="https://www.npmjs.com/package/gulp" rel="nofollow">gulp</a> "Builder Gulp"
+<a href="https://www.npmjs.com/package/gulp" rel="nofollow">gulp</a> Builder Gulp
