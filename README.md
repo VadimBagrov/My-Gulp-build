@@ -37,3 +37,7 @@ This build is reassigned for a more convenient and most importantly readable cod
 5. Read commands you will need at runtime
 6. Execute command: gulp (run default)
 7. Write your code and enjoy the automatic building of the project.
+
+### NPM packages in use
+---
+<a href="https://www.npmjs.com/package/gulp" rel="nofollow">gulp</a> "Builder Gulp"
