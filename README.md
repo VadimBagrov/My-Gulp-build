@@ -14,3 +14,18 @@ This build is reassigned for a more convenient and most importantly readable cod
 + Compressing and optimizing Java Script code
 + Automatically add prefixes to CSS
 + Deleting directories and files
+
+### Input
+---
+|               |     HTML     |         Styles         |        Images        |JavaScript|
+| ------------- |:------------:| ---------------------: | :------------------: |:--------:|
+| Catalog       |     app/     |      app/styles/       |     app/imgages/     |  app/js  |
+| Extension     | .html, .pug  |   .css, .sass, .scss,  |   .jpg, .png, .gif   |   .js    |
+
+### Output
+---
+| Таблицы       | Это                | Круто |
+| ------------- |:------------------:| -----:|
+| столбец 3     | выровнен вправо    | $1600 |
+| столбец 2     | выровнен по центру |   $12 |
+| зебра-строки  | прикольные         |    $1 |
