@@ -3,7 +3,7 @@
 This build is reassigned for a more convenient and most importantly readable code .
 
 ---
-### Build functionality :
+### :clipboard:Build functionality :
 + Сompression HTML , JavaScript , Sass and Scss preprocessors.
 + local server with automatic page update when files change.
 + Tracking changes in files and automatically triggering re-processing.
