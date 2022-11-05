@@ -30,9 +30,10 @@ This build is reassigned for a more convenient and most importantly readable cod
 
 ### Launch
 ---
-- Download all project files
-- In the terminal go to the project directory
-- Run the command: npm i (node.js must be installed)
-- Create directories and files
-- Execute command: gulp (run default)
-- Write your code and enjoy the automatic building of the project.
+1. Download all project files
+2. In the terminal go to the project directory
+3. Run the command: npm i (node.js must be installed)
+4. Create directories and files
+5. Read commands you will need at runtime
+6. Execute command: gulp (run default)
+7. Write your code and enjoy the automatic building of the project.
