@@ -18,12 +18,12 @@ This build is reassigned for a more convenient and most importantly readable cod
 ### Input
 ---
 |               |     HTML     |         Styles         |        Images        |JavaScript|
-| ------------- |:------------:| ---------------------: | :------------------: |:--------:|
+| ------------- |:------------:| :--------------------: | :------------------: |:--------:|
 | Catalog       |     app/     |      app/styles/       |     app/imgages/     |  app/js  |
 | Extension     | .html, .pug  |   .css, .sass, .scss,  |   .jpg, .png, .gif   |   .js    |
 
 ### Output
 ---
 |        |     HTML     |         Styles         |    Images     |     JavaScript     |
-| ------ |:------------:| ---------------------: | :----------: |:-------------------:|
+| ------ |:------------:| :--------------------: | :----------: |:-------------------:|
 | Path   |     dist/    | dist/css/style.min.css |  dist/img/   | dist/js/main.min.js |
