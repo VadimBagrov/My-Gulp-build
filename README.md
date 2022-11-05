@@ -42,9 +42,9 @@ This build is reassigned for a more convenient and most importantly readable cod
 ---
 <a href="https://www.npmjs.com/package/gulp" rel="nofollow">gulp</a> Builder Gulp <br>
 <a href="https://www.npmjs.com/package/gulp-sass" rel="nofollow">gulp-sass</a> Compiling Sass and Scss files <br>
-<a href="https://www.npmjs.com/package/gulp-imagemin" rel="nofollow">gulp-imagemin</a> Image compression <br>
 <a href="https://www.npmjs.com/package/gulp-concat" rel="nofollow">gulp-concat</a> Combining multiple files into one <br>
-<a href="https://www.npmjs.com/package/gulp-autoprefixer" rel="nofollow">gulp-autoprefixer</a> Automatically add prefixes to CSS <br>
 <a href="https://www.npmjs.com/package/gulp-uglify-es" rel="nofollow">gulp-uglify-es</a> Code compression and optimization <br>
+<a href="https://www.npmjs.com/package/gulp-imagemin" rel="nofollow">gulp-imagemin</a> Image compression <br>
+<a href="https://www.npmjs.com/package/gulp-autoprefixer" rel="nofollow">gulp-autoprefixer</a> Automatically add prefixes to CSS <br>
 <a href="https://www.npmjs.com/package/del" rel="nofollow">del</a> Deleting directories and files <br>
 <a href="https://browsersync.io/docs/gulp" rel="nofollow">browser-sync</a> Browser and Automatic site update when files change <br>
