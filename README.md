@@ -27,3 +27,12 @@ This build is reassigned for a more convenient and most importantly readable cod
 |        |     HTML     |         Styles         |    Images     |     JavaScript     |
 | ------ |:------------:| :--------------------: | :----------: |:-------------------:|
 | Path   |     dist/    | dist/css/style.min.css |  dist/img/   | dist/js/main.min.js |
+
+### Launch
+---
+- Download all project files
+- In the terminal go to the project directory
+- Run the command: npm i (node.js must be installed)
+- Create directories and files
+- Execute command: gulp (run default)
+- Write your code and enjoy the automatic building of the project.
