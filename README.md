@@ -1,6 +1,6 @@
 ### :computer:Building on Gulp 4
 
-This build is reassigned for a more convenient and most importantly readable code .
+This build is reassigned for a more convenient and most importantly readable code 
 
 ---
 ### :clipboard:Build functionality :
