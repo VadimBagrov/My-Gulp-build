@@ -1,4 +1,4 @@
-### :computer:Building on Gulp 4
+### Building on Gulp 4 :computer:
 
 This build is reassigned for a more convenient and most importantly readable code 
 
